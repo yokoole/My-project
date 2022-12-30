@@ -1,0 +1,66 @@
+h1,
+h2 {
+  text-align: right;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 15px;
+}
+
+a {
+  font-size: 12px;
+  color: gray;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+.main-card-body {
+  padding: 10px 60px;
+}
+
+.input-card,
+.city-card {
+  border-style: none;
+}
+
+.input-card {
+  padding: 30px 10px 30px 0;
+}
+
+.search-button {
+  width: 70%;
+}
+
+.today,
+.details {
+  text-align: center;
+}
+
+.today {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.details {
+  line-height: 3;
+}
+
+.today-temperature,
+.content {
+  margin: 0 auto;
+}
+
+.next-week {
+  margin: 30px 0 10px 0;
+  text-align: center;
+}
+
+.next-week-temperature {
+  margin: 10px 0;
+}
